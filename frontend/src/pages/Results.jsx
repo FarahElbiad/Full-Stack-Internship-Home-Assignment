@@ -1,7 +1,7 @@
 // pages/process.js
 import React, { useEffect, useState } from 'react';
-import EmployeeTable from "@/components/EmployeeTable";
-import JobSummaryTable from "@/components/JobSummaryTable";
+import EmployeeTable from "../components/EmployeeTable";
+import JobSummaryTable from "../components/JobSummaryTable";
 import FileUpload from '../components/FileUpload';
 
 const ProcessPage = () => {

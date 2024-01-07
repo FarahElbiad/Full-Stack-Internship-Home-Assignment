@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import FileUpload from '../components/FileUpload';
-import ProcessButton from "@/components/ProcessButton";
+import ProcessButton from "../components/ProcessButton";
 
 const HomePage = () => {
     const [selectedFile, setSelectedFile] = useState(null);
